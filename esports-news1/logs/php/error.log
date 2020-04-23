@@ -1,0 +1,662 @@
+[16-Apr-2020 23:46:21 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:14:29 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:14:29 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:14:29 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:14:29 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:14:29 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:14:29 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:14:29 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:15:51 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:15:51 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:15:51 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:15:51 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:15:51 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:14 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:14 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:14 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:14 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:14 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:22 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:22 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:22 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:22 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:22 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:22 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:22 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:22 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:22 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:23 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:23 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:23 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:23 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:23 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:23 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:23 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:23 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:23 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:23 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:23 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:23 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:23 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:23 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:23 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:23 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:37 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wp_xwtxvd62re_options` WHERE `option_name` = '_site_transient_timeout_kirki_googlefonts_cache' made by include('phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php'), include('phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php'), WP_CLI\bootstrap, WP_CLI\Bootstrap\LaunchRunner->process, WP_CLI\Runner->start, WP_CLI\Runner->load_wordpress, require('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, Kirki_Modules_Webfonts->run, Kirki_Fonts_Google::get_instance, Kirki_Fonts_Google->__construct, Kirki_Fonts::get_google_fonts, get_site_transient, delete_site_option, delete_network_option, delete_option
+[17-Apr-2020 23:16:56 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:56 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:56 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:56 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:56 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:56 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:56 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:16:56 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:17:03 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:17:03 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:17:03 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:17:03 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:17:03 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:17:03 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:17:03 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:17:03 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:17:04 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:37:25 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:37:25 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:37:25 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:37:25 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:37:25 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:37:25 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:37:25 UTC] Flywheel::DatabaseConnection
+[17-Apr-2020 23:37:25 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 13:59:50 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 13:59:50 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 13:59:50 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 13:59:50 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 13:59:50 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 13:59:51 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 13:59:51 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 13:59:52 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 13:59:52 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 13:59:52 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 13:59:52 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 13:59:52 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 13:59:52 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 13:59:52 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 13:59:52 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 13:59:52 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 13:59:52 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 13:59:52 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 14:08:49 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:08:49 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:09:05 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:09:05 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:18:49 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:18:49 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:25:54 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:25:54 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:26:21 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:26:21 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:26:27 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:26:27 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:27:02 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:27:02 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:27:28 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:27:28 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:30:54 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:30:54 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:30:58 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:30:58 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:31:00 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 2 AND p.post_status = 'private') OR (p.post_author = 2 AND p.post_status = 'hidden') ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:31:00 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 2 AND p.post_status = 'private') OR (p.post_author = 2 AND p.post_status = 'hidden') ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:51:56 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:51:56 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:52:20 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:52:20 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:52:31 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 2 AND p.post_status = 'private') OR (p.post_author = 2 AND p.post_status = 'hidden') ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:52:31 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 2 AND p.post_status = 'private') OR (p.post_author = 2 AND p.post_status = 'hidden') ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:52:57 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 2 AND p.post_status = 'private') OR (p.post_author = 2 AND p.post_status = 'hidden') ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:52:57 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 2 AND p.post_status = 'private') OR (p.post_author = 2 AND p.post_status = 'hidden') ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:53:06 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 2 AND p.post_status = 'private') OR (p.post_author = 2 AND p.post_status = 'hidden') ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:53:06 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 2 AND p.post_status = 'private') OR (p.post_author = 2 AND p.post_status = 'hidden') ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:53:27 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 2 AND p.post_status = 'private') OR (p.post_author = 2 AND p.post_status = 'hidden') ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:53:27 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 2 AND p.post_status = 'private') OR (p.post_author = 2 AND p.post_status = 'hidden') ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:54:41 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'topic'  AND p.post_status = 'publish' ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:54:41 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'topic'  AND p.post_status = 'publish' ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:54:55 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'topic'  AND p.post_status = 'publish' ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:54:55 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'topic'  AND p.post_status = 'publish' ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:55:04 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'topic'  AND p.post_status = 'publish' ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:55:04 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'topic'  AND p.post_status = 'publish' ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:59:10 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:59:10 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:59:13 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:59:13 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:59:16 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 14:59:16 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 15:01:46 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 15:01:46 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 15:01:54 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 15:01:54 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 15:01:58 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 2 AND p.post_status = 'private') OR (p.post_author = 2 AND p.post_status = 'hidden') ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 15:01:58 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 2 AND p.post_status = 'private') OR (p.post_author = 2 AND p.post_status = 'hidden') ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 15:02:25 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 2 AND p.post_status = 'private') OR (p.post_author = 2 AND p.post_status = 'hidden') ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 15:02:25 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 2 AND p.post_status = 'private') OR (p.post_author = 2 AND p.post_status = 'hidden') ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 15:02:36 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 2 AND p.post_status = 'private') OR (p.post_author = 2 AND p.post_status = 'hidden') ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 15:02:36 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 2 AND p.post_status = 'private') OR (p.post_author = 2 AND p.post_status = 'hidden') ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 15:09:51 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 15:09:51 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 15:15:50 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 15:15:50 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 15:15:58 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 15:15:58 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_xwtxvd62re_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[18-Apr-2020 15:41:11 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php on line 2024
+[18-Apr-2020 15:41:11 UTC] PHP Stack trace:
+[18-Apr-2020 15:41:11 UTC] PHP   1. {main}() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[18-Apr-2020 15:41:11 UTC] PHP   2. include() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[18-Apr-2020 15:41:11 UTC] PHP   3. include() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[18-Apr-2020 15:41:11 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[18-Apr-2020 15:41:11 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[18-Apr-2020 15:41:11 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[18-Apr-2020 15:41:11 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[18-Apr-2020 15:41:11 UTC] PHP   8. require() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[18-Apr-2020 15:41:11 UTC] PHP   9. wp_templating_constants() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-settings.php:481
+[18-Apr-2020 15:41:11 UTC] PHP  10. get_template_directory() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\default-constants.php:389
+[18-Apr-2020 15:41:11 UTC] PHP  11. get_template() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\theme.php:323
+[18-Apr-2020 15:41:11 UTC] PHP  12. get_option() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\theme.php:312
+[18-Apr-2020 15:41:11 UTC] PHP  13. wpdb->get_row() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:120
+[18-Apr-2020 15:41:11 UTC] PHP  14. wpdb->query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2563
+[18-Apr-2020 15:41:11 UTC] PHP  15. wpdb->_do_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:1912
+[18-Apr-2020 15:41:11 UTC] PHP  16. mysqli_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2024
+[18-Apr-2020 15:41:11 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php on line 2024
+[18-Apr-2020 15:41:11 UTC] PHP Stack trace:
+[18-Apr-2020 15:41:11 UTC] PHP   1. {main}() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[18-Apr-2020 15:41:11 UTC] PHP   2. include() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[18-Apr-2020 15:41:11 UTC] PHP   3. include() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[18-Apr-2020 15:41:11 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[18-Apr-2020 15:41:11 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[18-Apr-2020 15:41:11 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[18-Apr-2020 15:41:11 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[18-Apr-2020 15:41:11 UTC] PHP   8. require() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[18-Apr-2020 15:41:11 UTC] PHP   9. wp_templating_constants() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-settings.php:481
+[18-Apr-2020 15:41:11 UTC] PHP  10. get_template_directory() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\default-constants.php:389
+[18-Apr-2020 15:41:11 UTC] PHP  11. get_template() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\theme.php:323
+[18-Apr-2020 15:41:11 UTC] PHP  12. get_option() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\theme.php:312
+[18-Apr-2020 15:41:11 UTC] PHP  13. wpdb->get_row() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:120
+[18-Apr-2020 15:41:11 UTC] PHP  14. wpdb->query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2563
+[18-Apr-2020 15:41:11 UTC] PHP  15. wpdb->_do_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:1912
+[18-Apr-2020 15:41:11 UTC] PHP  16. mysqli_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2024
+[18-Apr-2020 15:41:16 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 15:41:16 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 15:41:16 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 15:41:16 UTC] Flywheel::DatabaseConnection
+[18-Apr-2020 15:41:36 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:15 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:15 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:15 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:15 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:15 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:20 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:20 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:21 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:21 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:22 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:22 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:22 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:22 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:22 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:22 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:22 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:22 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:22 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:27 UTC] Flywheel::DatabaseConnection
+[19-Apr-2020 21:00:27 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:53 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:53 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:53 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:53 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:53 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:53 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:53 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:53 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:53 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:54 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:54 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:54 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:54 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:54 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:54 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:54 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:54 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:54 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:17:55 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:59:13 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:59:13 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:59:13 UTC] Flywheel::DatabaseConnection
+[21-Apr-2020 12:59:13 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:34:53 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:34:53 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:34:53 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:34:53 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:34:53 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:34:53 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:34:53 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:34:53 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:34:53 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:34:53 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:34:53 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:34:53 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:34:53 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:34:53 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:34:53 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:34:53 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:34:53 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:34:53 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:42:14 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:42:14 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:42:14 UTC] Flywheel::DatabaseConnection
+[22-Apr-2020 14:42:14 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:04:53 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:04:53 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:04:53 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:04:53 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:04:53 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:04:54 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:04:54 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:04:55 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:04:55 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:04:55 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:04:55 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:04:56 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wp_5ebx60yrn8_options` WHERE `option_name` = '_site_transient_kirki_googlefonts_cache' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, Kirki_Modules_Webfonts->run, Kirki_Fonts_Google::get_instance, Kirki_Fonts_Google->__construct, Kirki_Fonts::get_google_fonts, get_site_transient, delete_site_option, delete_network_option, delete_option
+[23-Apr-2020 02:04:56 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wp_5ebx60yrn8_options` WHERE `option_name` = '_site_transient_kirki_googlefonts_cache' made by include('phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php'), include('phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php'), WP_CLI\bootstrap, WP_CLI\Bootstrap\LaunchRunner->process, WP_CLI\Runner->start, WP_CLI\Runner->load_wordpress, require('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, Kirki_Modules_Webfonts->run, Kirki_Fonts_Google::get_instance, Kirki_Fonts_Google->__construct, Kirki_Fonts::get_google_fonts, get_site_transient, delete_site_option, delete_network_option, delete_option
+[23-Apr-2020 02:04:56 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wp_5ebx60yrn8_options` WHERE `option_name` = '_site_transient_kirki_googlefonts_cache' made by include('phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php'), include('phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php'), WP_CLI\bootstrap, WP_CLI\Bootstrap\LaunchRunner->process, WP_CLI\Runner->start, WP_CLI\Runner->load_wordpress, require('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, Kirki_Modules_Webfonts->run, Kirki_Fonts_Google::get_instance, Kirki_Fonts_Google->__construct, Kirki_Fonts::get_google_fonts, get_site_transient, delete_site_option, delete_network_option, delete_option
+[23-Apr-2020 02:33:29 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_5ebx60yrn8_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[23-Apr-2020 02:33:29 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_5ebx60yrn8_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[23-Apr-2020 02:34:59 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_5ebx60yrn8_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[23-Apr-2020 02:34:59 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_5ebx60yrn8_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[23-Apr-2020 02:35:03 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_5ebx60yrn8_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 2 AND p.post_status = 'private') OR (p.post_author = 2 AND p.post_status = 'hidden') ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[23-Apr-2020 02:35:03 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_5ebx60yrn8_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 2 AND p.post_status = 'private') OR (p.post_author = 2 AND p.post_status = 'hidden') ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[23-Apr-2020 02:41:05 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_5ebx60yrn8_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[23-Apr-2020 02:41:05 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_5ebx60yrn8_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'forum'  AND ( p.post_status = 'publish' OR p.post_status = 'private' OR p.post_status = 'hidden' ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[23-Apr-2020 02:41:07 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_5ebx60yrn8_posts AS p  WHERE p.post_date < '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 3 AND p.post_status = 'private') OR (p.post_author = 3 AND p.post_status = 'hidden') ) ORDER BY p.post_date DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[23-Apr-2020 02:41:07 UTC] WordPress database error Incorrect DATETIME value: '0' for query SELECT p.ID FROM wp_5ebx60yrn8_posts AS p  WHERE p.post_date > '0' AND p.post_type = 'topic'  AND ( p.post_status = 'publish' OR (p.post_author = 3 AND p.post_status = 'private') OR (p.post_author = 3 AND p.post_status = 'hidden') ) ORDER BY p.post_date ASC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/di-magazine/page.php'), get_header, locate_template, load_template, require_once('/themes/di-magazine/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, adjacent_posts_rel_link_wp_head, adjacent_posts_rel_link, get_adjacent_post_rel_link, get_adjacent_post
+[23-Apr-2020 02:55:23 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php on line 2024
+[23-Apr-2020 02:55:23 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php on line 2024
+[23-Apr-2020 02:55:23 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php on line 2024
+[23-Apr-2020 02:55:23 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php on line 2024
+[23-Apr-2020 02:55:23 UTC] PHP Stack trace:
+[23-Apr-2020 02:55:23 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php on line 2024
+[23-Apr-2020 02:55:23 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php on line 2024
+[23-Apr-2020 02:55:23 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php on line 2024
+[23-Apr-2020 02:55:23 UTC] PHP Stack trace:
+[23-Apr-2020 02:55:23 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php on line 2024
+[23-Apr-2020 02:55:23 UTC] PHP Stack trace:
+[23-Apr-2020 02:55:23 UTC] PHP Stack trace:
+[23-Apr-2020 02:55:23 UTC] PHP   1. {main}() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Apr-2020 02:55:23 UTC] PHP Stack trace:
+[23-Apr-2020 02:55:23 UTC] PHP Stack trace:
+[23-Apr-2020 02:55:23 UTC] PHP Stack trace:
+[23-Apr-2020 02:55:23 UTC] PHP   1. {main}() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Apr-2020 02:55:23 UTC] PHP Stack trace:
+[23-Apr-2020 02:55:23 UTC] PHP   1. {main}() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Apr-2020 02:55:23 UTC] PHP   1. {main}() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Apr-2020 02:55:23 UTC] PHP   2. include() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Apr-2020 02:55:23 UTC] PHP   1. {main}() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Apr-2020 02:55:23 UTC] PHP   1. {main}() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Apr-2020 02:55:23 UTC] PHP   2. include() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Apr-2020 02:55:23 UTC] PHP   1. {main}() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Apr-2020 02:55:23 UTC] PHP   2. include() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Apr-2020 02:55:23 UTC] PHP   2. include() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Apr-2020 02:55:23 UTC] PHP   3. include() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Apr-2020 02:55:23 UTC] PHP   2. include() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Apr-2020 02:55:23 UTC] PHP   2. include() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Apr-2020 02:55:23 UTC] PHP   3. include() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Apr-2020 02:55:23 UTC] PHP   3. include() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Apr-2020 02:55:23 UTC] PHP   2. include() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Apr-2020 02:55:23 UTC] PHP   1. {main}() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Apr-2020 02:55:23 UTC] PHP   3. include() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Apr-2020 02:55:23 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Apr-2020 02:55:23 UTC] PHP   3. include() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Apr-2020 02:55:23 UTC] PHP   3. include() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Apr-2020 02:55:23 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Apr-2020 02:55:23 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Apr-2020 02:55:23 UTC] PHP   3. include() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Apr-2020 02:55:23 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Apr-2020 02:55:23 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Apr-2020 02:55:23 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Apr-2020 02:55:23 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Apr-2020 02:55:23 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Apr-2020 02:55:23 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Apr-2020 02:55:23 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Apr-2020 02:55:23 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Apr-2020 02:55:23 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Apr-2020 02:55:23 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Apr-2020 02:55:23 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Apr-2020 02:55:23 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Apr-2020 02:55:23 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Apr-2020 02:55:23 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Apr-2020 02:55:23 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Apr-2020 02:55:23 UTC] PHP   2. include() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Apr-2020 02:55:23 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Apr-2020 02:55:23 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Apr-2020 02:55:23 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Apr-2020 02:55:23 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Apr-2020 02:55:23 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Apr-2020 02:55:23 UTC] PHP   8. require() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Apr-2020 02:55:23 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Apr-2020 02:55:23 UTC] PHP   8. require() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Apr-2020 02:55:23 UTC] PHP   8. require() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Apr-2020 02:55:23 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Apr-2020 02:55:23 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Apr-2020 02:55:23 UTC] PHP   9. do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-settings.php:540
+[23-Apr-2020 02:55:23 UTC] PHP   8. require() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Apr-2020 02:55:23 UTC] PHP   9. do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-settings.php:540
+[23-Apr-2020 02:55:23 UTC] PHP   9. do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-settings.php:540
+[23-Apr-2020 02:55:23 UTC] PHP   8. require() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Apr-2020 02:55:23 UTC] PHP   8. require() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Apr-2020 02:55:23 UTC] PHP  10. WP_Hook->do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\plugin.php:478
+[23-Apr-2020 02:55:23 UTC] PHP   9. do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-settings.php:540
+[23-Apr-2020 02:55:23 UTC] PHP  10. WP_Hook->do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\plugin.php:478
+[23-Apr-2020 02:55:23 UTC] PHP  10. WP_Hook->do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\plugin.php:478
+[23-Apr-2020 02:55:23 UTC] PHP   9. do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-settings.php:540
+[23-Apr-2020 02:55:23 UTC] PHP   9. do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-settings.php:540
+[23-Apr-2020 02:55:23 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Apr-2020 02:55:23 UTC] PHP  10. WP_Hook->do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\plugin.php:478
+[23-Apr-2020 02:55:23 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:311
+[23-Apr-2020 02:55:23 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:311
+[23-Apr-2020 02:55:23 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:311
+[23-Apr-2020 02:55:23 UTC] PHP   3. include() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Apr-2020 02:55:23 UTC] PHP  10. WP_Hook->do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\plugin.php:478
+[23-Apr-2020 02:55:23 UTC] PHP  10. WP_Hook->do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\plugin.php:478
+[23-Apr-2020 02:55:23 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:311
+[23-Apr-2020 02:55:23 UTC] PHP  12. wp_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:287
+[23-Apr-2020 02:55:23 UTC] PHP  12. wp_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:287
+[23-Apr-2020 02:55:23 UTC] PHP  12. wp_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:287
+[23-Apr-2020 02:55:23 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:311
+[23-Apr-2020 02:55:23 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:311
+[23-Apr-2020 02:55:23 UTC] PHP  12. wp_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:287
+[23-Apr-2020 02:55:23 UTC] PHP  13. spawn_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:774
+[23-Apr-2020 02:55:23 UTC] PHP  13. spawn_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:774
+[23-Apr-2020 02:55:23 UTC] PHP  12. wp_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:287
+[23-Apr-2020 02:55:23 UTC] PHP  12. wp_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:287
+[23-Apr-2020 02:55:23 UTC] PHP  14. set_transient() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:691
+[23-Apr-2020 02:55:23 UTC] PHP  13. spawn_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:774
+[23-Apr-2020 02:55:23 UTC] PHP  13. spawn_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:774
+[23-Apr-2020 02:55:23 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Apr-2020 02:55:23 UTC] PHP  13. spawn_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:774
+[23-Apr-2020 02:55:23 UTC] PHP  13. spawn_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:774
+[23-Apr-2020 02:55:23 UTC] PHP  15. update_option() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:816
+[23-Apr-2020 02:55:23 UTC] PHP  14. set_transient() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:691
+[23-Apr-2020 02:55:23 UTC] PHP  14. set_transient() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:691
+[23-Apr-2020 02:55:23 UTC] PHP  16. wpdb->update() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:390
+[23-Apr-2020 02:55:23 UTC] PHP  14. set_transient() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:691
+[23-Apr-2020 02:55:23 UTC] PHP  14. set_transient() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:691
+[23-Apr-2020 02:55:23 UTC] PHP  15. update_option() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:816
+[23-Apr-2020 02:55:23 UTC] PHP  17. wpdb->query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2314
+[23-Apr-2020 02:55:23 UTC] PHP   8. require() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Apr-2020 02:55:23 UTC] PHP  14. set_transient() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:691
+[23-Apr-2020 02:55:23 UTC] PHP  15. update_option() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:816
+[23-Apr-2020 02:55:23 UTC] PHP  15. update_option() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:816
+[23-Apr-2020 02:55:23 UTC] PHP  18. wpdb->_do_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:1912
+[23-Apr-2020 02:55:23 UTC] PHP  16. wpdb->update() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:390
+[23-Apr-2020 02:55:23 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Apr-2020 02:55:23 UTC] PHP  15. update_option() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:816
+[23-Apr-2020 02:55:23 UTC] PHP   9. do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-settings.php:540
+[23-Apr-2020 02:55:23 UTC] PHP  16. wpdb->update() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:390
+[23-Apr-2020 02:55:23 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Apr-2020 02:55:23 UTC] PHP  17. wpdb->query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2314
+[23-Apr-2020 02:55:23 UTC] PHP  16. wpdb->update() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:390
+[23-Apr-2020 02:55:23 UTC] PHP  19. mysqli_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2024
+[23-Apr-2020 02:55:23 UTC] PHP  10. WP_Hook->do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\plugin.php:478
+[23-Apr-2020 02:55:23 UTC] PHP  15. update_option() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:816
+[23-Apr-2020 02:55:23 UTC] PHP  16. wpdb->update() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:390
+[23-Apr-2020 02:55:23 UTC] PHP  17. wpdb->query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2314
+[23-Apr-2020 02:55:23 UTC] PHP  18. wpdb->_do_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:1912
+[23-Apr-2020 02:55:23 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Apr-2020 02:55:23 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php on line 2024
+[23-Apr-2020 02:55:23 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:311
+[23-Apr-2020 02:55:23 UTC] PHP  17. wpdb->query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2314
+[23-Apr-2020 02:55:23 UTC] PHP  16. wpdb->update() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:390
+[23-Apr-2020 02:55:23 UTC] PHP  18. wpdb->_do_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:1912
+[23-Apr-2020 02:55:23 UTC] PHP  19. mysqli_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2024
+[23-Apr-2020 02:55:23 UTC] PHP  17. wpdb->query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2314
+[23-Apr-2020 02:55:23 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Apr-2020 02:55:23 UTC] PHP Stack trace:
+[23-Apr-2020 02:55:23 UTC] PHP  18. wpdb->_do_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:1912
+[23-Apr-2020 02:55:23 UTC] PHP  12. wp_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:287
+[23-Apr-2020 02:55:23 UTC] PHP  17. wpdb->query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2314
+[23-Apr-2020 02:55:23 UTC] PHP  19. mysqli_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2024
+[23-Apr-2020 02:55:23 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php on line 2024
+[23-Apr-2020 02:55:23 UTC] PHP  18. wpdb->_do_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:1912
+[23-Apr-2020 02:55:23 UTC] PHP   8. require() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Apr-2020 02:55:23 UTC] PHP   1. {main}() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Apr-2020 02:55:23 UTC] PHP  19. mysqli_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2024
+[23-Apr-2020 02:55:23 UTC] PHP  13. spawn_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:774
+[23-Apr-2020 02:55:23 UTC] PHP  18. wpdb->_do_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:1912
+[23-Apr-2020 02:55:23 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php on line 2024
+[23-Apr-2020 02:55:23 UTC] PHP Stack trace:
+[23-Apr-2020 02:55:23 UTC] PHP  19. mysqli_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2024
+[23-Apr-2020 02:55:23 UTC] PHP   9. do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-settings.php:540
+[23-Apr-2020 02:55:23 UTC] PHP   2. include() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Apr-2020 02:55:23 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php on line 2024
+[23-Apr-2020 02:55:23 UTC] PHP  14. set_transient() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:691
+[23-Apr-2020 02:55:23 UTC] PHP  19. mysqli_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2024
+[23-Apr-2020 02:55:23 UTC] PHP Stack trace:
+[23-Apr-2020 02:55:23 UTC] PHP   1. {main}() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Apr-2020 02:55:23 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php on line 2024
+[23-Apr-2020 02:55:23 UTC] PHP  10. WP_Hook->do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\plugin.php:478
+[23-Apr-2020 02:55:23 UTC] PHP   3. include() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Apr-2020 02:55:23 UTC] PHP Stack trace:
+[23-Apr-2020 02:55:23 UTC] PHP  15. update_option() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:816
+[23-Apr-2020 02:55:23 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php on line 2024
+[23-Apr-2020 02:55:23 UTC] PHP   1. {main}() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Apr-2020 02:55:23 UTC] PHP   2. include() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Apr-2020 02:55:23 UTC] PHP Stack trace:
+[23-Apr-2020 02:55:23 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:311
+[23-Apr-2020 02:55:23 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Apr-2020 02:55:23 UTC] PHP   1. {main}() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Apr-2020 02:55:23 UTC] PHP  16. wpdb->update() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:390
+[23-Apr-2020 02:55:23 UTC] PHP Stack trace:
+[23-Apr-2020 02:55:23 UTC] PHP   2. include() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Apr-2020 02:55:23 UTC] PHP   3. include() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Apr-2020 02:55:23 UTC] PHP   1. {main}() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Apr-2020 02:55:23 UTC] PHP  12. wp_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:287
+[23-Apr-2020 02:55:23 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Apr-2020 02:55:23 UTC] PHP   2. include() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Apr-2020 02:55:23 UTC] PHP  17. wpdb->query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2314
+[23-Apr-2020 02:55:23 UTC] PHP   1. {main}() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Apr-2020 02:55:23 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Apr-2020 02:55:23 UTC] PHP   2. include() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Apr-2020 02:55:23 UTC] PHP   3. include() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Apr-2020 02:55:23 UTC] PHP  13. spawn_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:774
+[23-Apr-2020 02:55:23 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Apr-2020 02:55:23 UTC] PHP  18. wpdb->_do_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:1912
+[23-Apr-2020 02:55:23 UTC] PHP   2. include() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Apr-2020 02:55:23 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Apr-2020 02:55:23 UTC] PHP   3. include() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Apr-2020 02:55:23 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Apr-2020 02:55:23 UTC] PHP  14. set_transient() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:691
+[23-Apr-2020 02:55:23 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Apr-2020 02:55:23 UTC] PHP   3. include() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Apr-2020 02:55:23 UTC] PHP  19. mysqli_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2024
+[23-Apr-2020 02:55:23 UTC] PHP   3. include() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Apr-2020 02:55:23 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Apr-2020 02:55:23 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Apr-2020 02:55:23 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Apr-2020 02:55:23 UTC] PHP  15. update_option() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:816
+[23-Apr-2020 02:55:23 UTC] PHP   8. require() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Apr-2020 02:55:23 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Apr-2020 02:55:23 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Apr-2020 02:55:23 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php on line 2024
+[23-Apr-2020 02:55:23 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Apr-2020 02:55:23 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Apr-2020 02:55:23 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Apr-2020 02:55:23 UTC] PHP  16. wpdb->update() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:390
+[23-Apr-2020 02:55:23 UTC] PHP   9. do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-settings.php:540
+[23-Apr-2020 02:55:23 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Apr-2020 02:55:23 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Apr-2020 02:55:23 UTC] PHP   8. require() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Apr-2020 02:55:23 UTC] PHP Stack trace:
+[23-Apr-2020 02:55:23 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Apr-2020 02:55:23 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Apr-2020 02:55:23 UTC] PHP  17. wpdb->query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2314
+[23-Apr-2020 02:55:23 UTC] PHP  10. WP_Hook->do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\plugin.php:478
+[23-Apr-2020 02:55:23 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Apr-2020 02:55:23 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Apr-2020 02:55:23 UTC] PHP   9. do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-settings.php:540
+[23-Apr-2020 02:55:23 UTC] PHP   1. {main}() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Apr-2020 02:55:23 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Apr-2020 02:55:23 UTC] PHP  18. wpdb->_do_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:1912
+[23-Apr-2020 02:55:23 UTC] PHP   8. require() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Apr-2020 02:55:23 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:311
+[23-Apr-2020 02:55:23 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Apr-2020 02:55:23 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Apr-2020 02:55:23 UTC] PHP  10. WP_Hook->do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\plugin.php:478
+[23-Apr-2020 02:55:23 UTC] PHP   2. include() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Apr-2020 02:55:23 UTC] PHP   8. require() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Apr-2020 02:55:23 UTC] PHP  19. mysqli_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2024
+[23-Apr-2020 02:55:23 UTC] PHP   9. do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-settings.php:540
+[23-Apr-2020 02:55:23 UTC] PHP  12. wp_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:287
+[23-Apr-2020 02:55:23 UTC] PHP   8. require() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Apr-2020 02:55:23 UTC] PHP   8. require() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Apr-2020 02:55:23 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:311
+[23-Apr-2020 02:55:23 UTC] PHP   3. include() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Apr-2020 02:55:23 UTC] PHP   9. do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-settings.php:540
+[23-Apr-2020 02:55:23 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php on line 2024
+[23-Apr-2020 02:55:23 UTC] PHP  10. WP_Hook->do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\plugin.php:478
+[23-Apr-2020 02:55:23 UTC] PHP  13. spawn_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:774
+[23-Apr-2020 02:55:23 UTC] PHP   9. do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-settings.php:540
+[23-Apr-2020 02:55:23 UTC] PHP   9. do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-settings.php:540
+[23-Apr-2020 02:55:23 UTC] PHP  12. wp_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:287
+[23-Apr-2020 02:55:23 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Apr-2020 02:55:23 UTC] PHP  10. WP_Hook->do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\plugin.php:478
+[23-Apr-2020 02:55:23 UTC] PHP Stack trace:
+[23-Apr-2020 02:55:23 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:311
+[23-Apr-2020 02:55:23 UTC] PHP  14. set_transient() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:691
+[23-Apr-2020 02:55:23 UTC] PHP  10. WP_Hook->do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\plugin.php:478
+[23-Apr-2020 02:55:23 UTC] PHP  10. WP_Hook->do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\plugin.php:478
+[23-Apr-2020 02:55:23 UTC] PHP  13. spawn_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:774
+[23-Apr-2020 02:55:23 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Apr-2020 02:55:23 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:311
+[23-Apr-2020 02:55:23 UTC] PHP   1. {main}() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[23-Apr-2020 02:55:23 UTC] PHP  12. wp_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:287
+[23-Apr-2020 02:55:23 UTC] PHP  15. update_option() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:816
+[23-Apr-2020 02:55:23 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:311
+[23-Apr-2020 02:55:23 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:311
+[23-Apr-2020 02:55:23 UTC] PHP  14. set_transient() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:691
+[23-Apr-2020 02:55:23 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Apr-2020 02:55:23 UTC] PHP  12. wp_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:287
+[23-Apr-2020 02:55:23 UTC] PHP   2. include() C:\Users\Mohit\AppData\Local\Programs\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[23-Apr-2020 02:55:23 UTC] PHP  13. spawn_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:774
+[23-Apr-2020 02:55:23 UTC] PHP  16. wpdb->update() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:390
+[23-Apr-2020 02:55:23 UTC] PHP  12. wp_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:287
+[23-Apr-2020 02:55:23 UTC] PHP  12. wp_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:287
+[23-Apr-2020 02:55:23 UTC] PHP  15. update_option() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:816
+[23-Apr-2020 02:55:23 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Apr-2020 02:55:23 UTC] PHP  13. spawn_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:774
+[23-Apr-2020 02:55:23 UTC] PHP   3. include() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[23-Apr-2020 02:55:23 UTC] PHP  14. set_transient() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:691
+[23-Apr-2020 02:55:23 UTC] PHP  17. wpdb->query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2314
+[23-Apr-2020 02:55:23 UTC] PHP  13. spawn_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:774
+[23-Apr-2020 02:55:23 UTC] PHP  13. spawn_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:774
+[23-Apr-2020 02:55:23 UTC] PHP  16. wpdb->update() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:390
+[23-Apr-2020 02:55:23 UTC] PHP   8. require() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Apr-2020 02:55:23 UTC] PHP  14. set_transient() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:691
+[23-Apr-2020 02:55:23 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[23-Apr-2020 02:55:23 UTC] PHP  15. update_option() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:816
+[23-Apr-2020 02:55:23 UTC] PHP  18. wpdb->_do_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:1912
+[23-Apr-2020 02:55:23 UTC] PHP  14. set_transient() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:691
+[23-Apr-2020 02:55:23 UTC] PHP  14. set_transient() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:691
+[23-Apr-2020 02:55:23 UTC] PHP  17. wpdb->query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2314
+[23-Apr-2020 02:55:23 UTC] PHP   9. do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-settings.php:540
+[23-Apr-2020 02:55:23 UTC] PHP  15. update_option() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:816
+[23-Apr-2020 02:55:23 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[23-Apr-2020 02:55:23 UTC] PHP  16. wpdb->update() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:390
+[23-Apr-2020 02:55:23 UTC] PHP  19. mysqli_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2024
+[23-Apr-2020 02:55:23 UTC] PHP  15. update_option() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:816
+[23-Apr-2020 02:55:23 UTC] PHP  15. update_option() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:816
+[23-Apr-2020 02:55:23 UTC] PHP  18. wpdb->_do_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:1912
+[23-Apr-2020 02:55:23 UTC] PHP  10. WP_Hook->do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\plugin.php:478
+[23-Apr-2020 02:55:23 UTC] PHP  16. wpdb->update() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:390
+[23-Apr-2020 02:55:23 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[23-Apr-2020 02:55:23 UTC] PHP  17. wpdb->query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2314
+[23-Apr-2020 02:55:23 UTC] PHP  16. wpdb->update() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:390
+[23-Apr-2020 02:55:23 UTC] PHP  16. wpdb->update() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:390
+[23-Apr-2020 02:55:23 UTC] PHP  19. mysqli_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2024
+[23-Apr-2020 02:55:23 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:311
+[23-Apr-2020 02:55:23 UTC] PHP  17. wpdb->query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2314
+[23-Apr-2020 02:55:23 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[23-Apr-2020 02:55:23 UTC] PHP  18. wpdb->_do_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:1912
+[23-Apr-2020 02:55:23 UTC] PHP  17. wpdb->query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2314
+[23-Apr-2020 02:55:23 UTC] PHP  17. wpdb->query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2314
+[23-Apr-2020 02:55:23 UTC] PHP  12. wp_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:287
+[23-Apr-2020 02:55:23 UTC] PHP  18. wpdb->_do_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:1912
+[23-Apr-2020 02:55:23 UTC] PHP   8. require() phar://C:/Users/Mohit/AppData/Local/Programs/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[23-Apr-2020 02:55:23 UTC] PHP  19. mysqli_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2024
+[23-Apr-2020 02:55:23 UTC] PHP  18. wpdb->_do_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:1912
+[23-Apr-2020 02:55:23 UTC] PHP  18. wpdb->_do_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:1912
+[23-Apr-2020 02:55:23 UTC] PHP  13. spawn_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:774
+[23-Apr-2020 02:55:23 UTC] PHP  19. mysqli_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2024
+[23-Apr-2020 02:55:23 UTC] PHP   9. do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-settings.php:540
+[23-Apr-2020 02:55:23 UTC] PHP  19. mysqli_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2024
+[23-Apr-2020 02:55:23 UTC] PHP  19. mysqli_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2024
+[23-Apr-2020 02:55:23 UTC] PHP  14. set_transient() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:691
+[23-Apr-2020 02:55:23 UTC] PHP  10. WP_Hook->do_action() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\plugin.php:478
+[23-Apr-2020 02:55:23 UTC] PHP  15. update_option() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:816
+[23-Apr-2020 02:55:23 UTC] PHP  11. WP_Hook->apply_filters() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:311
+[23-Apr-2020 02:55:23 UTC] PHP  16. wpdb->update() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:390
+[23-Apr-2020 02:55:23 UTC] PHP  12. wp_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\class-wp-hook.php:287
+[23-Apr-2020 02:55:23 UTC] PHP  17. wpdb->query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2314
+[23-Apr-2020 02:55:23 UTC] PHP  13. spawn_cron() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:774
+[23-Apr-2020 02:55:23 UTC] PHP  18. wpdb->_do_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:1912
+[23-Apr-2020 02:55:23 UTC] PHP  14. set_transient() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\cron.php:691
+[23-Apr-2020 02:55:23 UTC] PHP  19. mysqli_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2024
+[23-Apr-2020 02:55:23 UTC] PHP  15. update_option() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:816
+[23-Apr-2020 02:55:23 UTC] PHP  16. wpdb->update() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\option.php:390
+[23-Apr-2020 02:55:23 UTC] PHP  17. wpdb->query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2314
+[23-Apr-2020 02:55:23 UTC] PHP  18. wpdb->_do_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:1912
+[23-Apr-2020 02:55:23 UTC] PHP  19. mysqli_query() C:\Users\Mohit\Local Sites\esports-news1\app\public\wp-includes\wp-db.php:2024
+[23-Apr-2020 02:55:27 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:27 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:27 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:27 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:27 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:27 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:28 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:28 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:28 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:29 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:29 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:29 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:29 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:29 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:29 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:29 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:29 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:29 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:29 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:29 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:29 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:29 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:29 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:30 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:30 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:34 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:34 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 02:55:34 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 03:03:10 UTC] WordPress database error Table 'local.wp_5ebx60yrn8_users' doesn't exist for query SELECT * FROM wp_5ebx60yrn8_users WHERE user_login = 'dcitstudent' LIMIT 1 made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), load_default_textdomain, determine_locale, get_user_locale, wp_get_current_user, _wp_get_current_user, apply_filters('determine_current_user'), WP_Hook->apply_filters, wp_validate_auth_cookie, get_user_by, WP_User::get_data_by
+[23-Apr-2020 03:04:03 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 03:04:03 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 03:04:03 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 03:04:03 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 03:04:03 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 03:04:03 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 03:04:10 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 03:04:10 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 03:04:10 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 03:04:10 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 03:04:10 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 03:04:10 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 03:04:10 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 03:04:11 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 03:04:11 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 03:04:11 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 03:04:11 UTC] Flywheel::DatabaseConnection
+[23-Apr-2020 03:04:11 UTC] Flywheel::DatabaseConnection
